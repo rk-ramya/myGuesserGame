@@ -13,7 +13,7 @@
 
 
 ## Game Flowchart:
-<img width="3500" height="530" alt="GuesserGameFlowchart" src="https://user-images.githubusercontent.com/116821018/201100888-433430cc-1996-40a8-8bf5-e14c488e3c56.png">
+<img width="2000" height="530" alt="GuesserGameFlowchart" src="https://user-images.githubusercontent.com/116821018/201100888-433430cc-1996-40a8-8bf5-e14c488e3c56.png">
 
 ## Some of the JAVA concepts used to implement the features:
 1. Multiplayer concept using **Array of objects** for player class.
